@@ -1,4 +1,4 @@
-/*Program to multiply two numbers */
+/*Programa para multiplicar dos numeros */
 #include <stdio.h>
 int main()
 {
